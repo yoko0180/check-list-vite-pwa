@@ -13,6 +13,7 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,png,svg}']
       },
       manifest: {
+        lang: 'ja',
         name: 'check-list',
         short_name: 'check-list',
         description: 'My Awesome App description',
